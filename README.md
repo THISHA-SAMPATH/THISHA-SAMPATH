@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Thisha S 👋
 
-<!--
-**THISHA-SAMPATH/THISHA-SAMPATH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science Engineering @ VIT Chennai (2nd Year)
 
-Here are some ideas to get you started:
+## About me
+- Building full-stack and AI/ML projects
+- Interested in Data Science, IoT, and Computer Vision
+- Currently exploring Flask, Python, and real-world datasets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Languages:** Python · C · C++ · JavaScript · java 
+**Web:** HTML · CSS · Flask · Streamlit 
+**Tools:** OpenCV · Pandas · NumPy · Chart.js · Arduino · git · vscode
+**Database:** SQL · Supabase · postgres
+
+## Projects
+| Project | Description | Tech |
+|---|---|---|
+| [UIDAI Dashboard](https://github.com/THISHA-SAMPATH/UIDAI) | ML dashboard for Aadhaar demand prediction across India | Flask · Python · Chart.js |
+| [ESP32 IoT Dashboard](https://github.com/THISHA-SAMPATH/ESP32) | Real-time temperature & humidity monitoring | Arduino · Supabase · Chart.js |
+| [Hand Recognition](https://github.com/THISHA-SAMPATH/hand_recognition) | Live hand detection via webcam | OpenCV · Streamlit |
+
+## Connect
+[![LinkedIn](https://www.linkedin.com/in/thisha-sampath-38a15423b/)]
+
+---
+*Open to internships in Software Development, Data Science, and AI/ML*
