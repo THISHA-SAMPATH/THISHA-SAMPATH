@@ -9,13 +9,21 @@ B.Tech Computer Science Engineering @ VIT Chennai (2nd Year)
 - 
 ## Tech Stack
 **Languages:** Python · C · C++ · JavaScript · TypeScript · Java 
+
 **Frontend:** HTML · CSS · React · Next.js · Tailwind CSS · Streamlit · Flutter
+
 **Backend:** Flask · NestJS · Node.js · REST APIs · WebSockets · Socket.io
+
 **Database:** SQL · PostgreSQL · Prisma ORM · Supabase · Redis
+
 **AI & ML:** OpenAI GPT-4o · OpenCV · Pandas · NumPy
+
 **Mobile:** Flutter · Android (APK)
+
 **Payments & Auth:** Razorpay · JWT · RBAC
+
 **Tools:** Git · GitHub · Docker · VS Code · Arduino · Chart.js · BullMQ
+
 **Cloud & DevOps:** Vercel · Railway · Neon · Upstash
 
 
