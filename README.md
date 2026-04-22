@@ -20,11 +20,9 @@ B.Tech Computer Science Engineering @ VIT Chennai (2nd Year)
 
 **Mobile:** Flutter · Android (APK)
 
-**Payments & Auth:** Razorpay · JWT · RBAC
+**Payments & Auth:** Razorpay · JWT 
 
-**Tools:** Git · GitHub · Docker · VS Code · Arduino · Chart.js · BullMQ
-
-**Cloud & DevOps:** Vercel · Railway · Neon · Upstash
+**Tools:** Git · GitHub · Docker · VS Code · Arduino · Chart.js 
 
 
 ## Connect
