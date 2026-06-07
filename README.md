@@ -75,10 +75,6 @@ I build production-grade systems — TypeScript end-to-end, distributed backends
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=THISHA-SAMPATH&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THISHA-SAMPATH&theme=github_dark" alt="Contribution Graph" />
 
 </div>
