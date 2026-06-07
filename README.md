@@ -72,9 +72,9 @@ Currently a **2nd-year CSE student at VIT Chennai** targeting **full-stack, back
 
 <div align="center">
 
-![Thisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THISHA-SAMPATH&show_icons=true&theme=default&hide_border=true&count_private=true&hide=contribs)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THISHA-SAMPATH&layout=compact&theme=default&hide_border=true&langs_count=6)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THISHA-SAMPATH&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/THISHA-SAMPATH)
+&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THISHA-SAMPATH&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/THISHA-SAMPATH)
 
 </div>
 
