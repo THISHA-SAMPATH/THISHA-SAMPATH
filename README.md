@@ -16,9 +16,9 @@ I build production-grade systems — TypeScript end-to-end, distributed backends
 
 ### What I build
 
-Full-stack applications with TypeScript end-to-end — Next.js + NestJS, PostgreSQL + Redis data layers, Docker deployments, and GitHub Actions CI/CD pipelines. I care about system design, not just getting things to render.
-
-Currently a **2nd-year CSE student at VIT Chennai** targeting **full-stack, backend, and DevOps/SRE internships**.
+- Deployed full-stack platforms handling auth, payments, real-time events, and AI — in production
+- TypeScript end-to-end: Next.js 15 + NestJS + PostgreSQL + Redis + Docker
+- 2nd year at VIT Chennai · shipping production systems · open to full-stack / backend / DevOps internships
 
 ---
 
@@ -29,6 +29,9 @@ Currently a **2nd-year CSE student at VIT Chennai** targeting **full-stack, back
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Frontend**
@@ -86,6 +89,6 @@ Currently a **2nd-year CSE student at VIT Chennai** targeting **full-stack, back
 
 **Open to SWE / Backend / DevOps internships**
 
-*Connect on [LinkedIn](https://www.linkedin.com/in/thisha-sampath-38a15423b/) or drop an email*
+[LinkedIn](https://www.linkedin.com/in/thisha-sampath-38a15423b/) · thishasampath@gmail.com
 
 </div>
