@@ -83,7 +83,7 @@ I build production-grade systems — TypeScript end-to-end, distributed backends
 
 <div align="center">
 
-**Open to SWE / Backend / DevOps internships**
+**Open to SWE / full stack / Frontend / Backend / DevOps internships**
 
 [LinkedIn](https://www.linkedin.com/in/thisha-sampath-38a15423b/) · thishasampath@gmail.com
 
