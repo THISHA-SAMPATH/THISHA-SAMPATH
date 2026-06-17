@@ -66,7 +66,6 @@ I build production-grade systems — TypeScript end-to-end, distributed backends
 |---------|-------------|-------|
 | [**VITVerse**](https://github.com/THISHA-SAMPATH/vitverse) | Production campus platform — event booking, AI chatbot, real-time notifications, payments | Next.js 15, NestJS, PostgreSQL, Redis, Socket.IO, GPT-4o, Razorpay, Docker |
 | [**Startup Stress Tester**](https://github.com/THISHA-SAMPATH/startup-stress-tester) | Multi-agent system that attacks your startup idea — competitor, user, and analyst agents share memory and score survival in real time | Next.js, FastAPI, OpenRouter, Docker |
-| [**FinSight AI**](https://github.com/THISHA-SAMPATH/finsight-ai) | Personal finance dashboard with AI-driven spending insights and a Three.js landing page | Next.js, Node.js, PostgreSQL, Three.js, OpenAI |
 | [**MPloyChek BGV**](https://github.com/THISHA-SAMPATH/mploychek) | Background verification portal — full document workflow, real-time status, JWT auth | Angular 21, NestJS, MongoDB, Docker, Socket.IO |
 
 ---
